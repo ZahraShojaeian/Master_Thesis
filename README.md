@@ -1,17 +1,17 @@
 # Overview
 
- This Matlab code is part of the MSc project " Improving the Quality of Standoff Imaging Using Polarimetry" and calculates the backscattered electromagnetics waves from a PEC square
+ This Matlab code is part of the MSc project " Improving the Quality of Standoff Imaging Using Polarimetry" and calculates the backscattered electromagnetic waves from a PEC square
  using the Physical Theory of Diffraction. 
  The objective is to enhance edge detection and background suppression, particularly for metallic objects. The underlying concept is based on the analysis of scattering behavior from perfectly conducting (PEC) patches, revealing that cross-polarized scattering is a valuable source of information about object edges.
  # Electromagnetic calculations
- 1. First, the backscattered electromagnetics waves from a PEC square is calculated in the nearfield, using the Physical Theory of Diffraction.
+ 1. First, the backscattered electromagnetic waves from a PEC square is calculated in the nearfield, using the Physical Theory of Diffraction.
  2. Then the image reconstruction is implemented using Quadratic phase approximation and Fresnel Diffraction Integral.
 
 # Output
 The schematic of the simulation and output of the code is the image below:
-![ ](Output.png)
+![ ](Output.jpg)
 # Citation:
 for reviewing the full project please refer to our paper:
 ”Improving the quality of active millimeter-wave standoff imaging by
-incorporateing the cross-polarized scattering”, Optics Express, URL:
+incorporating the cross-polarized scattering”, Optics Express, URL:
 https://doi.org/10.1364/OE.436363
