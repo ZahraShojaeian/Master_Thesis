@@ -8,7 +8,7 @@
  2. Then the image reconstruction is implemented using Quadratic phase approximation and Fresnel Diffraction Integral.
 
 # Output
-The schematic of the simulation and output of the code is the image below:
+The schematic of the simulation and output of the code is the image below( The left image is the result of this code):
 ![ ](Output.jpg)
 # Citation:
 Please explore the full project in our paper:
