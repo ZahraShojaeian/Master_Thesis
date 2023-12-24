@@ -1,6 +1,6 @@
 # Overview
 
- This Matlab code is part of the MSc project " Improving the Quality of Standoff Imaging Using Polarimetry" and calculates the backscattered electromagnetic waves from a PEC square
+ This Matlab code is part of the MSc project " Improving the Quality of THz Stand-off Imaging Using Polarimetry Technique" and calculates the backscattered electromagnetic waves from a PEC square
  using the Physical Theory of Diffraction. 
  The objective is to enhance edge detection and background suppression, particularly for metallic objects. The underlying concept is based on the analysis of scattering behavior from perfectly conducting (PEC) patches, revealing that cross-polarized scattering is a valuable source of information about object edges.
  # Electromagnetic calculations
