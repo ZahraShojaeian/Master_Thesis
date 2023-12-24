@@ -1,6 +1,3 @@
-%%% Matlab code for calculating the backscattered electromagnetics waves from a PEC square
-%%% using the Physical Theory of Diffraction
-
 close all
 clear all
 %%% Importing the incident electromagnetic plane-wave simulated in FEKO: 'ptd_30_NearField1_4.efe' %%%% 
