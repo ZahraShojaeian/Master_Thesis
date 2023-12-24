@@ -11,7 +11,7 @@
 The schematic of the simulation and output of the code is the image below:
 ![ ](Output.jpg)
 # Citation:
-for reviewing the full project please refer to our paper:
+Please explore the full project in our paper:
 ”Improving the quality of active millimeter-wave standoff imaging by
 incorporating the cross-polarized scattering”, Optics Express, URL:
 https://doi.org/10.1364/OE.436363
