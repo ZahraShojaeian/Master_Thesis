@@ -4,7 +4,7 @@
  using the Physical Theory of Diffraction. 
  The objective is to enhance edge detection and background suppression, particularly for metallic objects. The underlying concept is based on the analysis of scattering behavior from perfectly conducting (PEC) patches, revealing that cross-polarized scattering is a valuable source of information about object edges.
  # Electromagnetic calculations
- 1. First, the backscattered electromagnetic waves from a PEC square is calculated in the nearfield, using the Physical Theory of Diffraction.
+ 1. First, the backscattered electromagnetic waves from a PEC square is calculated, using the Physical Theory of Diffraction.
  2. Then the image reconstruction is implemented using Quadratic phase approximation and Fresnel Diffraction Integral.
 
 # Output
